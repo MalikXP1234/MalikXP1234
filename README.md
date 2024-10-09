@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalikXP1234
-- 👀 I’m interested in Programming/Cyber Security
-- 🌱 I’m currently learning Vb.net/C#
+- 👀 I’m interested in Game development/Cyber Security
+- 🌱 I’m currently learning Python/C++
 - 💞️ I’m looking to collaborate on making games
 - ⚡ Fun fact: Im a streamer :D
 
