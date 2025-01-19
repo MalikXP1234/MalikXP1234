@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MalikXP1234
+- 👋 Hi, My name is Aadam Malik (uni student)
 - 👀 I’m interested in Game development/Cyber Security
 - 🌱 I’m currently learning Python/C++
 - 💞️ I’m looking to collaborate on making games
