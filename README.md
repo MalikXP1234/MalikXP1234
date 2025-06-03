@@ -1,10 +1,41 @@
-- 👋 Hi, My name is Aadam Malik (uni student)
-- 👀 I’m interested in Game development/Cyber Security
-- 🌱 I’m currently learning Python/C++
-- 💞️ I’m looking to collaborate on making games
-- ⚡ Fun fact: Im a streamer :D
+# 👋 About Me # 
+Heya, Im currently 19yr and I study in uni currently 
 
-<!---
-MalikXP1234/MalikXP1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am currently studying Computer Science course based on Game development
+
+# Programming Language, Frameworks and Tools #
+
+So far I have learned these languages up to an extent
+
+ - Visual Basics
+
+ - HTML (such as Boostrap, Pywebio and Flask)
+
+ - Python
+
+ - C++ 
+
+# Projects #
+
+Currently I have a few projects that I am working on
+
+- Craftmine - Game based on Minecraft
+
+- Car Renting app - Able to hire and rent cars
+
+- Banking app - Able to create an banking account and transfer money
+
+- XP_Survivial - 2.0 version of Craftmine
+
+# Contact Info #
+
+Currently using itch.io
+
+# Goals for Future #
+
+- Planning on finishing off my Unreal engine game (XP_Survival)
+
+
+THIS READ.ME IS NOT DONE YET!!!!
+
+
